@@ -1,6 +1,6 @@
 
 
-┌─────────────────── validate cvc / cvv ─────────────────────────────
+┌─────────────────── CREAT PASSWORD LIST ─────────────────────────────
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
 copyrights by Devloper : Mohammed Info - From : Yemen - github : profionaldhim
