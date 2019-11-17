@@ -1,4 +1,4 @@
-gj#!/bin/bash
+#!/bin/bash
 
 figlet "Creat wordlist"
 echo ""
